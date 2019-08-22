@@ -1,0 +1,4 @@
+greeting: "You only can see me on the int env"
+env: int
+
+foo: intFoo

@@ -1,0 +1,6 @@
+greeting: "This is default greeting message."
+env: default
+
+foo: bar
+
+hello: world
